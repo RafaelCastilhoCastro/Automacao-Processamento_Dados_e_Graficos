@@ -1,13 +1,13 @@
 ## <p align='center'>Automação - Processamento de dados e geração de gráficos (Automation - Data Processing and Charts)</p>
 
 
-### Descrição (Description)
+### Descrição
 
 <p>Script em Python para a automação de importação de banco de dados, processamento de dados e criação de um ou mais gráficos.</p>
 <p>Python automation script for importing, data processing and charts generation.</p>
 <br>
 
-### Funcionalidades do projeto (Project Functionalities)
+### Funcionalidades do projeto
 
 * Importa dados de um banco de dados
 * Normaliza, corrige e prepara dados para análise exploratória
@@ -21,13 +21,13 @@
 * Generates and displays charts
 <br>
 
-### Tecnologias utilizadas (Dependencies)
+### Tecnologias utilizadas
 
 * Pandas
 * Plotly
 <br>
 
-### Rodando o projeto (Running the project)
+### Rodando o projeto
 
 * Atualize caminho do banco de dados para importação na função pandas.read_...
 * Defina as alterações, correções e normalizações necessárias
